@@ -1,0 +1,25 @@
+# bevdransfeldt.com
+
+## built by
+
+Cory Dransfeldt
+
+## built with
+
+Sublime Text
+sublimetext.com
+
+iTerm
+iterm2.com
+
+Jekyll
+jekyllrb.com
+
+Github
+github.com
+
+git
+git-scm.com
+
+Netlify
+netlify.com

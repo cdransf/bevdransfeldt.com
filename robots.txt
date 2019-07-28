@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+User-agent: CuteStat
+Disallow: /
+
+Sitemap: https://cory.codes/sitemap.xml
