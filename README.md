@@ -4,13 +4,14 @@
 
 **Built by:**
 
-Cory Dransfeldt
+Cory Dransfeldt • [coryd@hey.com](mailto:coryd@hey.com)
 
 **Built with:**
 
-- [Sublime Text](https://sublimetext.com)
-- [iTerm](http://iterm2.com)
+- [VS Code](https://code.visualstudio.com)
+- [iTerm](https://iterm2.com)
+- [Working Copy](http://workingcopyapp.com)
 - [Jekyll](http://jekyllrb.com)
-- [Github](https://github.com)
-- [git](http://git-scm.com)
+- [GitHub](https://github.com)
+- [git](https://git-scm.com)
 - [Netlify](https://netlify.com)

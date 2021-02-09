@@ -2,24 +2,27 @@
 
 ## built by
 
-Cory Dransfeldt
+Cory Dransfeldt // coryd@hey.com
 
 ## built with
 
-Sublime Text
-sublimetext.com
+VS Code
+code.visualstudio.com
 
 iTerm
 iterm2.com
 
+Working Copy
+workingcopyapp.com
+
 Jekyll
 jekyllrb.com
 
-Github
+GitHub
 github.com
 
 git
 git-scm.com
 
-Netlify
-netlify.com
+Happy Hues
+happyhues.co
