@@ -4,7 +4,7 @@
 
 **Built by:**
 
-[Cory Dransfeldt](mailto: cordial.desk8328@coryd.dev)
+[Cory Dransfeldt](mailto:cordial.desk8328@coryd.dev)
 
 **Built with:**
 
