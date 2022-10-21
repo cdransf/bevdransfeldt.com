@@ -2,7 +2,7 @@
 
 ## built by
 
-Cory Dransfeldt // hi@coryd.dev
+Cory Dransfeldt
 
 ## built with
 
