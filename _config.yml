@@ -4,8 +4,6 @@ url:
 baseurl: ""
 permalink: /:title/
 favicon: /assets/img/favicon.ico
-social_image: /assets/img/social-image.png
-analytics_id: UA-144722711-1
 kramdown:
   input: GFM
 sass:

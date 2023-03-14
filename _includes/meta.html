@@ -8,9 +8,3 @@
     {% if {{site.favicon != blank}} %}
     <link href="{{ site.favicon }}" rel="shortcut icon" type="image/x-icon" />
     {% endif %}
-    
-    {% if {{site.social_image != blank}} %}
-    <meta property="og:image" content="{{site.social_image}}" />
-    <meta name="twitter:image" content="{{site.social_image}}" />
-    <link rel="apple-touch-icon" href="{{site.social_image}}">
-    {% endif %}
