@@ -11,7 +11,7 @@
 - [VS Code](https://code.visualstudio.com)
 - [iTerm](https://iterm2.com)
 - [Working Copy](http://workingcopyapp.com)
-- [Jekyll](http://jekyllrb.com)
+- [Eleventy](https://www.11ty.dev/)
 - [GitHub](https://github.com)
 - [git](https://git-scm.com)
 - [Netlify](https://netlify.com)

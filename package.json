@@ -1,0 +1,20 @@
+{
+  "name": "bevdransfeldt.com",
+  "version": "1.0.0",
+  "description": "Bev A. Dransfeldt - Music | Events | Marketing",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "Bev A. Dransfeldt",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.1"
+  },
+  "dependencies": {
+    "@cdransf/eleventy-plugin-tabler-icons": "^2.13.1"
+  }
+}

@@ -1,24 +1,11 @@
-# Build files        #
-######################
-.sass-cache
-.jekyll-metadata
-.jekyll-cache
+# build output
+_site
+node_modules
+.cache
 
-# Log files          #
-######################
-*_log
-*.log
-*-log
-*_log.*
-*.log.*
-*-log.*
+# local dependencies
+.env.local
+.dev.vars
 
-# OS generated files #
-######################
+# system files
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db

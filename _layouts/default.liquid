@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html{% if title %} class="{{ title }}"{% endif %}>
+  <head>
+    <title>{{ name }}</title>
+    {% include "meta.liquid" %}
+    {% include "fonts.liquid" %}
+    <link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+  </head>
+  <body{% if title %} class="{{ title }}"{% endif %}>
+    <div id="main" role="main" class="container">
+      {{ content }}
+      {% include "social.liquid" %}
+    </div>
+  </body>
+</html>
