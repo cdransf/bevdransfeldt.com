@@ -1,7 +1,7 @@
 {
   "name": "bevdransfeldt.com",
   "version": "1.0.0",
-  "description": "Bev A. Dransfeldt - Music | Events | Marketing",
+  "description": "Bev A. Dransfeldt - Music | Marketing | Events | Advocacy | Parks",
   "main": "index.js",
   "scripts": {
     "build": "eleventy",

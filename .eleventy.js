@@ -11,7 +11,7 @@ module.exports = async function(eleventyConfig) {
 
   // Global data
   eleventyConfig.addGlobalData("name", "Bev A. Dransfeldt");
-  eleventyConfig.addGlobalData("description", "Music | Events | Marketing");
+  eleventyConfig.addGlobalData("description", "Music | Marketing | Events | Advocacy | Parks");
   eleventyConfig.addGlobalData("favicon", "/assets/img/favicon.ico");
 
   // Permalink structure
