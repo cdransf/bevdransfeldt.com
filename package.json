@@ -12,9 +12,9 @@
   "author": "Bev A. Dransfeldt",
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.1"
+    "@11ty/eleventy": "^3.1.2"
   },
   "dependencies": {
-    "@cdransf/eleventy-plugin-tabler-icons": "^2.13.1"
+    "@cdransf/eleventy-plugin-tabler-icons": "^2.13.2"
   }
 }
